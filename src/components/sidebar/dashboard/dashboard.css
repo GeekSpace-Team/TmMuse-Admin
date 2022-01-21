@@ -1,0 +1,11 @@
+.content {
+  background: #e5e5e5;
+  height: 100vh;
+  margin-top: 65px;
+}
+
+@media (max-width: 768px) {
+  .content {
+    margin-left: 0;
+  }
+}
